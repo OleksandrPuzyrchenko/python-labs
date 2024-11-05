@@ -44,11 +44,7 @@ def main():
     print(pool_1)
     print(pool_2)
     print(pool_3)
-    print(str(pool_1))
-    print(repr(pool_1))
-    print(default_pool)
-    print(type(default_pool) is Pool) 
-    print(default_pool is Pool)
+    
 
 if __name__ == "__main__":
     main()
